@@ -1,3 +1,8 @@
+# My Blog Project
+
+Welcome to my Blog project! This is a full-stack application built with React.js, Node.js, Express.js, and MongoDB. This project allows users to create, read, update, and delete blog posts.
+
+
 # Admin Login Details
 
 To access the admin panel of the blog, please follow these instructions:
@@ -15,11 +20,6 @@ Before logging in as an admin, make sure to import the admin data into your data
 2. Import the `blog.admindatas` file into your database:
    ```bash
    mongoimport --db your_database_name --collection admin_data --file path/to/blog.admindatas.json --jsonArray
-
-
-# My Blog Project
-
-Welcome to my Blog project! This is a full-stack application built with React.js, Node.js, Express.js, and MongoDB. This project allows users to create, read, update, and delete blog posts.
 
 ## Technologies Used
 

@@ -49,7 +49,7 @@ To get started with the Blog Project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/blog-project.git
+   git clone https://github.com/Prince0000/React_Node_blog_app.git
    ```
 
 2. **Navigate to the project directory:**

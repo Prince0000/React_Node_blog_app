@@ -63,7 +63,20 @@ To get started with the Blog Project on your local machine, follow these steps:
    cd frontend
    ```
 
-4. **Run the Project:**
+4. **Install Important Frameworks and Libraries:**
+    - **For Backend:**
+        ```
+        cd backend
+        npm install
+        ```
+
+    - **For Frontend:**
+        ```
+        cd frontend
+        npm install
+        ```
+
+5. **Run the Project:**
 
    - **Backend:**
      ```
